@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+font-family: arial, sans-serif ;
+border-collapse: collapse ;
+width:100;
+}
+
+td, th{
+border: 1px solid #5F3C35    
+text-align left;
+padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+    background-color: #F0F8FF
+    }
+    </style>
+    </head>
+    <body>
+    
+<h2>HTML Table</h2>
+        
+<table>
+    <tr> 
+    <th> Table East</th>
+    <th> Table West</th>
+    <th> Table south</th>
+    </tr>
+    <tr>
+    <td> Country East</td>
+    <td> country west</td>
+    <td> country South</td>
+    </tr>
+    
+    <tr>
+    <td> Earth</td>
+    <td> Wind</td>
+    <td> Fire </td>
+    </tr>
+    <tr>
+    <td>Water Starter</td>
+    <td> Fire Starter</td>
+    <td> Earth Channel</td>
+     </tr>
+    <tr>
+    <td> US</td>
+    <td> Mexico</td>
+    <td> Canada</td>
+    </tr>    
+<tr>
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </table>
