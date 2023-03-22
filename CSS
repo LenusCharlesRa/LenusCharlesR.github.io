@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body { background-color: beige}
+    
+    h1 { color: dimgrey
+    text-align: center; }
+    
+    p{ font-family: cursive; 
+        font-size: 20px;
+    }
+
+    
+</style>        
+</head>
+<body>
+    
+    
+<h1>My first CSS example</h1>
+<p> This is a sentence</p>
+    
+    
+      
+</body>
+</html>
+
+<html>
+<body>
+    
+
+<h1 style="background-color: cornflowerblue;">Good evening world</h1>
+
+<p style="background-color: darkkhaki;">
+Sometimes</p>
+    
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<style>
