@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style type="text/css">
+    
+        span{
+            border:1px solid black;
+        }
+    
+    </style>
+</head>
+<body>
+
+    <span> APPLY NOW</span>
+</body>
+</html>
